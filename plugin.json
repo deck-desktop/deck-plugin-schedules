@@ -1,0 +1,8 @@
+{
+  "id": "schedules",
+  "name": "Schedules",
+  "description": "Startup programs, app timers and power timers.",
+  "icon": "CalendarClock",
+  "version": "1.0.0",
+  "minDeck": "0.8.0"
+}
